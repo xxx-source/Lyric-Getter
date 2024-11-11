@@ -4,7 +4,7 @@
         <item>com.android.systemui</item>
         <item>cn.lyric.getter.api.demo</item>
         <item>com.miui.player</item>
-        <item>com.netease.cloudmusic</item>
+        com.netease.cloudmusic
         <item>com.salt.music</item>
         <item>com.tencent.qqmusic</item>
         <item>com.kugou.android</item>
@@ -25,12 +25,13 @@
         <item>statusbar.finder</item>
         <item>com.hihonor.cloudmusic</item>
         <item>org.akanework.gramophone</item>
-        <item>com.netease.cloudmusic.lite</item>
+        com.netease.cloudmusic.lite
         <item>cn.wenyu.bodian</item>
         <item>fun.upup.musicfree</item>
         <item>com.mimicry.mymusic</item>
         <item>yos.music.player</item>
         <item>org.kde.kdeconnect_tp</item>
         <item>com.huawei.music</item>
+        <item>music.hifistatus</item>
     </array>
 </resources>
